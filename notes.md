@@ -53,3 +53,31 @@ ATM SYSTEM:
         case 3: 
             if chances >= 3
                 cardBlocked()
+
+
+Write a program that allows the user to enter a number or a letter then
+it tells you if the user entered a number or a letter
+
+Built-in Functions:
+    These are functions that are already built in python like:
+        print()
+        int()
+        isdigit()
+        isalpha()
+        len()
+
+User-defined Funtions:
+    These are functions that are not built in python but can be created
+    by the programmer
+        withdraw()
+        cardBlocked()
+
+
+Create a calculator that takes in 2 values and returns an answer.
+    1. Calculator should end only after the user closes it
+    2. Calculator should take user data
+    3. User can enter a number or a letter
+    4. If user places a wrong value eg. #, system should tell to enter 
+    a number(calid data)
+
+        
