@@ -29,3 +29,27 @@ Hot => Wear Vests
 Cold => Wear Gloves
 Raining => Wear rain coats
 Sunny => Stay indoors
+
+
+HOW AN ATM WORKS
+
+ATM SYSTEM:
+    Enter Pin Code
+        Chances 3
+        if pin is wrong
+            another chance
+        if pin is wrong
+            another chance
+        if pin is wrong
+            another chance
+        
+
+        case 1:
+            if pin isCorrect 
+                withdraw()
+        case 2:
+            if pin is wrong:
+                another chance
+        case 3: 
+            if chances >= 3
+                cardBlocked()
